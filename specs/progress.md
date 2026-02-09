@@ -13,3 +13,14 @@
 - **Milestone**: Generated Implementation Plan NM-ADM-001-DB-T01 (workflow: /plan-implementation-from-tickets)
 - **Artifacts**:
   - specs/features/news-management/plan_NM-ADM-001-DB-T01.md
+
+- **Milestone**: Executed plan NM-ADM-001-DB-T01 (workflow: /execute-plan)
+- **Artifacts**:
+  - backend/app/infrastructure/models/*
+  - backend/alembic/versions/*
+  - specs/DataModel.md
+- **Notes**: Initialized DB schema for News and Users. Manual migration created (0001) due to docker access issues.
+
+- **Milestone**: Generated Implementation Plan NM-ADM-001-BE-T02 (workflow: /plan-implementation-from-tickets)
+- **Artifacts**:
+  - specs/features/news-management/plan_NM-ADM-001-BE-T02.md

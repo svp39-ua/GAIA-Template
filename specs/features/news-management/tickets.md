@@ -24,7 +24,7 @@
    - **Dependencies**: None.
    - **Deliverables**: Alembic revision, updated `DataModel.md`.
 
-2. - [ ] **NM-ADM-001-BE-T02 — Implement Create News Endpoint**
+2. - [x] **NM-ADM-001-BE-T02 — Implement Create News Endpoint** (2026-02-09)
    - **Type**: BE
    - **Description**: backend logic to create a news entry in `DRAFT` status.
      - Endpoint: `POST /api/v1/news`
